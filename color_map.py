@@ -16,8 +16,7 @@ COLOR_MAP = {
     keyboard.Key.f12: (255, 214, 97),
     keyboard.Key.ctrl: (255, 214, 97),
     keyboard.Key.alt: (255, 214, 97),
-    keyboard.Key.win: (255, 214, 97),
-    # keyboard.Key.shift: (255, 214, 97),
+    keyboard.Key.cmd: (255, 214, 97),  # 不能用.win，要用.cmd。
 
 
     # 删除类的 用红色表示
