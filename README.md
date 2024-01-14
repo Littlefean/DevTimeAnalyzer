@@ -8,8 +8,8 @@
 
 示例图片：
 
-![show2](example\show2.png)
+![show2](./example/show2.png)
 
-![show1](example\show1.png)
+![show1](./example/show1.png)
 
 纯黑色表示看代码（没有动键盘），亮白色和其他颜色可以表示写代码
